@@ -1,7 +1,7 @@
 ## Hi there 👋
 Good to have you here :)
 
-🌐 **Personal Website:** [https://mehrbod2002.github.io/](https://mehrbod2002.github.io/)  
+🌐 **Personal Website:** [https://mehrbod2002.github.io/](https://amirhdev.github.io/)  
 → Check out my portfolio showcasing backend systems, Go/Rust projects, fintech & blockchain work.
 
 <!--
